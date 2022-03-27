@@ -80,11 +80,15 @@ Or in component
 
 ## Change log
 
-### 0.0.2 (2022-03-05)
+### 0.0.3 (2022-03-27)
+
+- update readme file
+
+### 0.0.2 (2022-03-27)
 
 - add readme file
 
-### 0.0.1 (2022-03-05)
+### 0.0.1 (2022-03-27)
 
 - first release
 
