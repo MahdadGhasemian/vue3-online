@@ -2,7 +2,7 @@
 
 A Component for show internet connection
 
-![Screenshot](https://github.com/MahdadGhasemian/vue3-online/blob/main/vue-detect-internet-connection-screencast.webm)
+![Screenshot](https://github.com/MahdadGhasemian/vue3-online/blob/main/vue-detect-internet-connection.gif)
 
 ## Installation
 
