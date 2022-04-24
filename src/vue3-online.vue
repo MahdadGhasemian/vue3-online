@@ -37,6 +37,8 @@ export default defineComponent({
 </script>
 
 <template>
-  <slot v-if="isOnline"></slot>
-  <slot v-else name="offline"></slot>
+  <div>
+    <slot v-if="isOnline"></slot>
+    <slot v-else name="offline"></slot>
+  </div>
 </template>
