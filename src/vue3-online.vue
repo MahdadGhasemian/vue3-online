@@ -38,4 +38,5 @@ export default defineComponent({
 
 <template>
   <slot v-if="isOnline"></slot>
+  <slot v-else name="offline"></slot>
 </template>
